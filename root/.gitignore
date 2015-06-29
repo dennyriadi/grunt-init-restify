@@ -1,0 +1,4 @@
+.idea
+node_modules
+test_coverage
+newrelic_agent.log
